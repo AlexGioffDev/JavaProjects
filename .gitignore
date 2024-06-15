@@ -1,0 +1,47 @@
+# Ignora file generati dal compilatore Java
+*.class
+
+# Ignora file .jar generati
+*.jar
+
+# Ignora file di configurazione di Eclipse
+.settings/
+bin/
+
+# Ignora la directory dei file generati da IntelliJ IDEA
+out/
+
+# Ignora la directory target di Maven
+target/
+
+Matrici/
+OOP/
+
+# Ignora i file di configurazione specifici di Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Ignora i file di registro
+*.log
+
+# Ignora i file temporanei creati da IDEs
+.idea/
+
+# Ignora i file di configurazione di NetBeans
+nbproject/
+
+# Ignora i file di cache di Gradle
+.gradle/
+
+# Ignora i file generati da SonarQube
+sonar/
+
+# Ignora i file di backup
+*~
+
+# Ignora file specifici di sistema operativo o editor
+.DS_Store
+Thumbs.db
