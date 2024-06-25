@@ -16,6 +16,8 @@ target/
 
 Matrici/
 OOP/
+EsempioPackage/*
+
 
 # Ignora i file di configurazione specifici di Maven
 pom.xml.tag
