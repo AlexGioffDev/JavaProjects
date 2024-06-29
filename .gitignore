@@ -14,9 +14,7 @@ out/
 # Ignora la directory target di Maven
 target/
 
-Matrici/
-OOP/
-EsempioPackage/*
+Studio/
 
 
 # Ignora i file di configurazione specifici di Maven
