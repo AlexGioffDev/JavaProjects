@@ -1,4 +1,4 @@
-package com.razeft.catalogo.models;
+package com.razeft.catalogo.models.abstracts;
 
 import com.razeft.catalogo.models.interfaces.IElectronic;
 
