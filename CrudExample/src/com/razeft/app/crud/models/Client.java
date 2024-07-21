@@ -47,7 +47,7 @@ public class Client {
     public String toString() {
         return "id=" + id +
                 ", name='" + firstName + '\'' +
-                ", lastName= '" + lastName + '\'';
+                ", lastName='" + lastName + '\'';
     }
 
     @Override
